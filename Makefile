@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.4 2019/12/15 19:07:51 schmonz Exp $
+# $NetBSD: Makefile,v 1.6 2020/06/25 05:42:40 schmonz Exp $
 
 DISTNAME=		fdtools-2015.03.28
 PKGREVISION=		2
